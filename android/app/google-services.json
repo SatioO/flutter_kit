@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "888831612703",
+    "firebase_url": "https://learned-grammar-153809.firebaseio.com",
+    "project_id": "learned-grammar-153809"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888831612703:android:150baea12504f879",
+        "android_client_info": {
+          "package_name": "com.flutter_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888831612703-rojl25uo77t6dn1ci9pnigfiv1oagaf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter_kit",
+            "certificate_hash": "52210ef4d0e375986240888cc04c642b494057ec"
+          }
+        },
+        {
+          "client_id": "888831612703-u0lqgu0km4jlkbp3nh577nn2bk3gfvj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFndA7EbOpchxJq6nI6xDRcIwET7CTPmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888831612703-u0lqgu0km4jlkbp3nh577nn2bk3gfvj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
